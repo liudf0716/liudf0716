@@ -1,7 +1,8 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=liudf0716&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-<p align="center">
-  <a href="https://github.com/P3TERX">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=liudf0716&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-    </a>
-</p>
+### Hi 2021👋
+
+- :orange_book: 身体健康 
+- :hammer: 阖家欢乐
+- :ram: 万事如意
+- :meat_on_bone: 平平安安
