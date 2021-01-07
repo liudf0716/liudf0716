@@ -2,7 +2,7 @@
 
 ### Hi 2021👋
 
-- :orange_book: 身体健康 
-- :hammer: 阖家欢乐
-- :ram: 万事如意
-- :meat_on_bone: 平平安安
+- :meat_on_bone: 身体健康 
+- :family_man_woman_girl: 阖家欢乐
+- :ok_man: 万事如意
+- :apple: 平平安安
