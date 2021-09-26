@@ -1,8 +1,14 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=liudf0716&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+### Hi 2021! 😎 👋
 
-### Hi 2021👋
 
-- :meat_on_bone: 身体健康 
-- :family_man_woman_girl: 阖家欢乐
-- :ok_man: 万事如意
-- :apple: 平平安安
+- 📫 How to reach me. [liudengfeng blog](https://liudf0716.github.io/liudengfeng.github.io/)
+
+<a href="https://github.com/liudf0716">
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=liudf0716&theme=solarized-dark&show_icons=true">
+</a>
+
+<a href="https://github.com/liudf0716/apfree_wifidog">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=liudf0716&repo=apfree_wifidog">
+</a>
+
+![Stargazers over time](https://starchart.cc/liudf0716/apfree_wifidog.svg)
