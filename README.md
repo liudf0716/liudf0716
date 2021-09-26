@@ -1,7 +1,7 @@
 ### Hi 2021! 😎 👋
 
 
-- 📫 How to reach me. [liudengfeng blog](https://liudf0716.github.io/liudengfeng.github.io/)
+- 📫 How to reach me. [331230369](https://jq.qq.com/?_wv=1027&k=4ADDSev)
 
 <a href="https://github.com/liudf0716">
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=liudf0716&theme=solarized-dark&show_icons=true">
