@@ -11,6 +11,7 @@
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=liudf0716&repo=apfree_wifidog&theme=cobalt&show_icons=true">
 </a>
 
-<img align="right" width="%5" src="https://visitor-badge.glitch.me/badge?page_id=visiky" />
-
 ![Stargazers over time](https://starchart.cc/liudf0716/apfree_wifidog.svg)
+
+<img align="left" src="https://visitor-badge.glitch.me/badge?page_id=visiky" />
+
