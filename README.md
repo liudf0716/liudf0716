@@ -4,8 +4,8 @@ I'm a software engineer. Now working at Beijing.
 
 ### Find me elsewhere 🌎
 - :penguin:   [331230369](https://jq.qq.com/?_wv=1027&k=4ADDSev) <br>
-- :bird: [yuque](https://yuque.com/zzliudengfeng)
-- :email: [email](liu_df@qq.com)
+- :bird: [Yuque](https://yuque.com/zzliudengfeng)
+- :email: [E-mail](liu_df@qq.com)
 
 
 <a href="https://github.com/liudf0716">
