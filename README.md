@@ -3,9 +3,9 @@
 I'm a software engineer. Now working at Beijing.
 
 ### Find me elsewhere 🌎
-- :penguin:   [331230369](https://jq.qq.com/?_wv=1027&k=4ADDSev) <br>
-- :bird: [Yuque](https://yuque.com/zzliudengfeng)
-- :email: [E-mail](liu_df@qq.com)
+- :penguin: QQ Group:  [331230369](https://jq.qq.com/?_wv=1027&k=4ADDSev) <br>
+- 📫 How to reach me: [Email](liu_df@qq.com) 
+- 🐦 yuque(语雀)：https://www.yuque.com/zzliudengfeng
 
 
 <a href="https://github.com/liudf0716">
