@@ -1,6 +1,17 @@
 ### Hello 2022! 👋
 
-I'm a software engineer. Now working at Beijing.
+```mermaid
+sequenceDiagram
+  actor you
+  actor me
+  
+  you ->> me : what's your name
+  me ->> you : My name is Dengfeng Liu
+  you ->> me : where r u
+  me ->> you : I am now working as a software engineer in Beijing, China
+  you ->> me : Can u introduce youself breifly about your IT technology
+  me ->> you : I am good at being solved by technical problem, including but not limit to c/c++, golang, network area
+```
 
 ### Find me elsewhere 🌎
 - :penguin: QQ Group:  [331230369](https://jq.qq.com/?_wv=1027&k=4ADDSev) <br>
