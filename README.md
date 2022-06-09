@@ -1,4 +1,12 @@
-### Hello 2022! 👋
+
+<h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 2022</h1>
+
+<p align="center">
+  <a href="https://twitter.com/liudf0716"><img src="https://img.shields.io/badge/-@staylightblow8-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://jq.qq.com/?_wv=1027&k=4ADDSev"><img src="https://img.shields.io/badge/Q群-331230369-f48225?style=flat&logo=Tencent&logoColor=white" /></a>
+  <a href="https://github.com/liudf0716"><img src="https://img.shields.io/badge/-liudf0716-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+  <a href="https://www.yuque.com/zzliudengfeng"><img src="https://img.shields.io/badge/-zzliudengfeng-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+</p>
 
 <p align="center">
 <img width="600" src="https://raw.githubusercontent.com/liudf0716/liudf0716/main/assets/github-snake.svg" />
@@ -19,13 +27,6 @@ sequenceDiagram
   you ->> me : Can u introduce youself briefly about your IT technology
   me ->> you : I am good at being solved by technical problem, including but not limit to c/c++, golang, network area
 ```
-
-### Find me elsewhere 🌎
-- twit
-- :penguin: QQ Group:  [331230369](https://jq.qq.com/?_wv=1027&k=4ADDSev) <br>
-- 📫 How to reach me: [Email](liu_df@qq.com) 
-- 🐦 yuque(语雀)：https://www.yuque.com/zzliudengfeng
-
 
 <a href="https://github.com/liudf0716">
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=liudf0716&theme=cobalt&show_icons=true">
