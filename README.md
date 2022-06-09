@@ -5,7 +5,7 @@
   <a href="https://twitter.com/liudf0716"><img src="https://img.shields.io/badge/-@staylightblow8-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
   <a href="https://jq.qq.com/?_wv=1027&k=4ADDSev"><img src="https://img.shields.io/badge/-331230369-f48225?style=flat&logo=tencentqq&logoColor=white" /></a>
   <a href="https://github.com/liudf0716"><img src="https://img.shields.io/badge/-liudf0716-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
-  <a href="https://www.yuque.com/zzliudengfeng"><img src="https://img.shields.io/badge/-zzliudengfeng-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  <a href="https://www.yuque.com/zzliudengfeng"><img src="https://img.shields.io/badge/-zzliudengfeng-ff5757?style=flat&logo=bloglovin&logoColor=white" /></a>
 </p>
 
 <p align="center">
