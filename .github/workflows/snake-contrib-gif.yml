@@ -20,7 +20,7 @@ jobs:
       - name: Commit files
         run: |
           git config user.email "liudf0716@gmail.com"
-          git config user.name "Dengfeng Liu"
+          git config user.name "liudf0716"
           git add .
           git commit -m ":snake: Updates Snake Contribution Animation"
       # Push the changes
