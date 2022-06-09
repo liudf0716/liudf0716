@@ -1,5 +1,12 @@
 ### Hello 2022! 👋
 
+<p align="center">
+<img width="600" src="https://raw.githubusercontent.com/liudf0716/liudf0716/main/assets/github-snake.svg" />
+</p>
+
+
+### About me
+  
 ```mermaid
 sequenceDiagram
   actor you
@@ -14,6 +21,7 @@ sequenceDiagram
 ```
 
 ### Find me elsewhere 🌎
+- twit
 - :penguin: QQ Group:  [331230369](https://jq.qq.com/?_wv=1027&k=4ADDSev) <br>
 - 📫 How to reach me: [Email](liu_df@qq.com) 
 - 🐦 yuque(语雀)：https://www.yuque.com/zzliudengfeng
@@ -29,6 +37,7 @@ sequenceDiagram
 
 
 ![Stargazers over time](https://starchart.cc/liudf0716/apfree_wifidog.svg)
+
 
 # 
 <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=visiky" />
