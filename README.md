@@ -13,7 +13,7 @@
 </p>
 
 
-### About me
+## About me
   
 ```mermaid
 sequenceDiagram
@@ -28,18 +28,12 @@ sequenceDiagram
   me ->> you : I am good at being solved by technical problem, including but not limit to c/c++, golang, network area
 ```
 
-<a href="https://github.com/liudf0716">
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=liudf0716&theme=cobalt&show_icons=true">
-</a>
-
-<a href="https://github.com/liudf0716/apfree_wifidog">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=liudf0716&repo=apfree_wifidog&theme=cobalt&show_icons=true">
-</a>
+## Tech stack
+I work with:<br/>
+[![Bash, C, CPP, CMake, Docker, Express, Git, Markdown, Github, Gitlab, GO, Linux, MySQL, Java, Jenkins, Lua, Mongodb, Nodejs, Vue, Vim, Visualstudio, Python, Redis, Stackoverflow](https://skillicons.dev/icons?i=bash,c,cpp,cmake,docker,express,git,md,github,gitlab,go,linux,mysql,java,jenkins,lua,mongodb,nodejs,vue,vim,visualstudio,py,redis,stackoverflow&perline=8)](https://skillicons.dev)
 
 
-![Stargazers over time](https://starchart.cc/liudf0716/apfree_wifidog.svg)
 
-
-# 
+###
 <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=visiky" />
 
