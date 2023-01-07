@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img width="600" src="https://raw.githubusercontent.com/liudf0716/liudf0716/main/assets/github-snake.svg" />
+![github contribution grid snake animation](https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </p>
 
 
