@@ -7,9 +7,9 @@
   <a href="https://www.yuque.com/zzliudengfeng"><img src="https://img.shields.io/badge/-zzliudengfeng-ff5757？style=flat&logo=&logoColor=white" /></a>
 </p>
 
-<p align="center">
-![github contribution grid snake animation](https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-</p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 
 ## About me
