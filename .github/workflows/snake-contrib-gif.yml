@@ -3,29 +3,33 @@ name: 🐍 Generate Snake Contribution GIF
 on:
   workflow_dispatch: # Manual dispatch
   schedule:
-    - cron: '30 23 * * *' # Runs at 23:30 every day.
+    - cron: "0 */12 * * *"
+  
+  push:
+    branches:
+    - master
+    
 jobs:
   snake:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v2
-      - name: Generate Snake
-        uses: Platane/snk@master
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: assets/github-snake.gif
-          svg_out_path: assets/github-snake.svg          
-      # Commit the changes
-      - name: Commit files
-        run: |
-          git config user.email "liudf0716@gmail.com"
-          git config user.name "liudf0716"
-          git add .
-          git commit -m ":snake: Updates Snake Contribution Animation"
-      # Push the changes
-      - name: Push
-        uses: ad-m/github-push-action@master
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark 
+      
+      # push the content of <build_dir> to a branch
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.BOT_GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          target_branch: output
+          build_dir: dist
+        env:
+           GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
