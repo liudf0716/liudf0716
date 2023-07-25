@@ -1,5 +1,9 @@
 
-<h1 align="left">👋 𝙷𝚎𝚕𝚕𝚘! 2023</h1>
+<div>
+	<br>
+		<img src="header.svg" width="1200" height="120">
+	<br>
+</div>
 <p align="center">
   <a href="https://twitter.com/liudf0716"><img src="https://img.shields.io/badge/-@staylightblow8-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
   <a href="https://jq.qq.com/?_wv=1027&k=4ADDSev"><img src="https://img.shields.io/badge/-331230369-f48225?style=flat&logo=tencentqq&logoColor=white" /></a>
@@ -10,22 +14,6 @@
 <p align="cengter">
   <img src="https://raw.githubusercontent.com/liudf0716/liudf0716/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </p>
-
-
-## About me
-  
-```mermaid
-sequenceDiagram
-  actor you
-  actor me
-  
-  you ->> me : what's your name?
-  me ->> you : My name is Dengfeng Liu.
-  you ->> me : where are you?
-  me ->> you : I am now working as a software engineer in Beijing, China.
-  you ->> me : Which IT technologies do you use?
-  me ->> you : I am good at being solved by technical problem, including but not limited to c/c++, golang, networking area.
-```
 
 ## Tech stack
 I work with:<br/>
